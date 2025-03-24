@@ -1,2 +1,6 @@
 we are on the main
+<<<<<<< HEAD
 this is again main branch
+=======
+this is new branch
+>>>>>>> branch
